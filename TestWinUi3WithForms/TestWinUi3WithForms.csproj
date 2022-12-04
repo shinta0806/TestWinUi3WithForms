@@ -11,6 +11,7 @@
     <UseWinUI>true</UseWinUI>
     <EnableMsixTooling>true</EnableMsixTooling>
     <UseWindowsForms>True</UseWindowsForms>
+    <UseWPF>True</UseWPF>
   </PropertyGroup>
 
   <ItemGroup>
